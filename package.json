@@ -1,0 +1,23 @@
+{
+  "name": "HW10-LIRI-Node-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tex2063/HW10-LIRI-Node-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tex2063/HW10-LIRI-Node-API/issues"
+  },
+  "homepage": "https://github.com/Tex2063/HW10-LIRI-Node-API#readme",
+  "dependencies": {
+    "npm": "^6.3.0"
+  }
+}
