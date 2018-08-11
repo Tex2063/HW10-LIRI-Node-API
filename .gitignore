@@ -1,5 +1,3 @@
-			node_modules
-			.DS_Store
-			.env
-			.thumbdb
-.vs
+keys.js
+node_modules
+.DS_Store
