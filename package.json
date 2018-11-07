@@ -1,25 +1,26 @@
 {
-  "name": "hw10-liri-node-api",
+  "name": "HW10-LiriNodeApp",
   "version": "1.0.0",
-  "description": "The Liri App THing",
-  "main": "liri.js",
-  "dependencies": {
-    "request": "^2.75.0",
-    "spotify": "^0.3.0",
-    "twitter": "^1.4.0"
-  },
-  "devDependencies": {},
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tex2063/HW10-LIRI-Node-API.git"
+    "url": "git+https://github.com/Tex2063/HW10-LiriNodeApp.git"
   },
-  "author": "Meh",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Tex2063/HW10-LIRI-Node-API/issues"
+    "url": "https://github.com/Tex2063/HW10-LiriNodeApp/issues"
   },
-  "homepage": "https://github.com/Tex2063/HW10-LIRI-Node-API#readme"
+  "homepage": "https://github.com/Tex2063/HW10-LiriNodeApp#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
+    "twitter": "^1.7.1"
+  }
 }
